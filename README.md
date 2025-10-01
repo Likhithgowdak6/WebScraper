@@ -133,20 +133,20 @@ This project is a **semantic website content search tool** built with a **FastAP
 ## Project Structure
 
 project-root/
+project-root/
 │
 ├── backend/
-│ ├── main.py # FastAPI backend
-│ ├── requirements.txt # Python dependencies
-│ └── ...
+│   ├── main.py            # FastAPI backend
+│   ├── requirements.txt   # Python dependencies
+│   └── ...
 │
 ├── frontend/
-│ ├── src/
-│ │ └── WebsiteContentSearch.jsx
-│ ├── package.json
-│ └── ...
+│   ├── src/
+│   │   └── WebsiteContentSearch.jsx
+│   ├── package.json
+│   └── ...
 │
 └── README.md
-
 
 ---
 
